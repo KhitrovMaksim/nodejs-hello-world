@@ -36,4 +36,3 @@ const startApp = (greetingMessage, appLifeCycleTime, timerInterval, goodbyeMessa
 
 
 startApp(GREETING_MESSAGE, APP_LIFE_CYCLE , TIMER_INTERVAL, GOODBYE_MESSAGE);
-
